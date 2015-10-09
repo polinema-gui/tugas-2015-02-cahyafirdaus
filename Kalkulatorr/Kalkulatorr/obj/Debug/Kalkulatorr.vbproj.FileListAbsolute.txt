@@ -1,0 +1,10 @@
+c:\users\win\documents\visual studio 2013\Projects\Kalkulatorr\Kalkulatorr\bin\Debug\Kalkulatorr.exe.config
+c:\users\win\documents\visual studio 2013\Projects\Kalkulatorr\Kalkulatorr\bin\Debug\Kalkulatorr.exe
+c:\users\win\documents\visual studio 2013\Projects\Kalkulatorr\Kalkulatorr\bin\Debug\Kalkulatorr.pdb
+c:\users\win\documents\visual studio 2013\Projects\Kalkulatorr\Kalkulatorr\bin\Debug\Kalkulatorr.xml
+c:\users\win\documents\visual studio 2013\Projects\Kalkulatorr\Kalkulatorr\obj\Debug\Kalkulatorr.Form1.resources
+c:\users\win\documents\visual studio 2013\Projects\Kalkulatorr\Kalkulatorr\obj\Debug\Kalkulatorr.Resources.resources
+c:\users\win\documents\visual studio 2013\Projects\Kalkulatorr\Kalkulatorr\obj\Debug\Kalkulatorr.vbproj.GenerateResource.Cache
+c:\users\win\documents\visual studio 2013\Projects\Kalkulatorr\Kalkulatorr\obj\Debug\Kalkulatorr.exe
+c:\users\win\documents\visual studio 2013\Projects\Kalkulatorr\Kalkulatorr\obj\Debug\Kalkulatorr.xml
+c:\users\win\documents\visual studio 2013\Projects\Kalkulatorr\Kalkulatorr\obj\Debug\Kalkulatorr.pdb
